@@ -1,0 +1,24 @@
+.skills_do {
+  p {
+    display: inline-block;
+    text-decoration: underline;
+  }
+}
+.skills_icon {
+  img {
+    width: 45px;
+    display: inline-block;
+  }
+}
+.wrapper {
+  /* background: linear-gradient(180deg, #fbfbfb 0%, #efefef 100%); */
+  border: 2px solid #e0e0e0;
+}
+.table {
+  td {
+    border: 1px solid #e0e0e0;
+    text-align: center;
+    margin: auto 0;
+    padding: 5px;
+  }
+}

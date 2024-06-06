@@ -1,0 +1,16 @@
+.form_mail {
+  input,
+  textarea {
+    display: block;
+    border: none;
+    border-bottom: 1px solid #000;
+    width: 100%;
+    background-color: transparent;
+  }
+  input,
+  textarea:focus,
+  input,
+  textarea:active {
+    outline: none;
+  }
+}

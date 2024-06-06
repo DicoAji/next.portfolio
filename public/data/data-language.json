@@ -1,0 +1,124 @@
+{
+  "data_language": [
+    {
+      "tittle": "HTML",
+      "kategori": "Web Development",
+      "gambar": "html.png"
+    },
+    {
+      "tittle": "CSS",
+      "kategori": "Web Development",
+      "gambar": "css.png"
+    },
+    {
+      "tittle": "Javascript",
+      "kategori": "Web Development",
+      "gambar": "javascript.png"
+    },
+    {
+      "tittle": "Bootstrap",
+      "kategori": "Web Development",
+      "gambar": "bootstrap.png"
+    },
+    {
+      "tittle": "Tailwind",
+      "kategori": "Web Development",
+      "gambar": "tailwind.png"
+    },
+    {
+      "tittle": "PHP",
+      "kategori": "Web Development",
+      "gambar": "php.png"
+    },
+    {
+      "tittle": "Python",
+      "kategori": ["Web Development", "Machine Learning"],
+      "gambar": "python.png"
+    },
+    {
+      "tittle": "Codeigniter",
+      "kategori": "Web Development",
+      "gambar": "codeigniter.png"
+    },
+    {
+      "tittle": "Laravel",
+      "kategori": "Web Development",
+      "gambar": "laravel.png"
+    },
+    {
+      "tittle": "MySQL",
+      "kategori": "Web Development",
+      "gambar": "mysql.png"
+    },
+    {
+      "tittle": "Node JS",
+      "kategori": "Web Development",
+      "gambar": "node_js.png"
+    },
+    {
+      "tittle": "JQuery",
+      "kategori": "Web Development",
+      "gambar": "jquery.png"
+    },
+    {
+      "tittle": "React JS",
+      "kategori": "Web Development",
+      "gambar": "react.png"
+    },
+    {
+      "tittle": "Postman",
+      "kategori": "Web Development",
+      "gambar": "postman.png"
+    },
+    {
+      "tittle": "Adobe Photoshop",
+      "kategori": ["Photoshop", "Adobe"],
+      "gambar": "Photoshop.png"
+    },
+    {
+      "tittle": "Adobe XD",
+      "kategori": ["UI/UX Design", "Adobe"],
+      "gambar": "adobe-xd.png"
+    },
+    {
+      "tittle": "Adobe Premiere",
+      "kategori": "Adobe",
+      "gambar": "premiere_pro.png"
+    },
+    {
+      "tittle": "Figma",
+      "kategori": ["UI/UX Design", "Graphic Design"],
+      "gambar": "figma.png"
+    },
+    {
+      "tittle": "Canva",
+      "kategori": "Graphic Design",
+      "gambar": "canva.png"
+    },
+    {
+      "tittle": "Git",
+      "kategori": "Productivity",
+      "gambar": "git.png"
+    },
+    {
+      "tittle": "Notion",
+      "kategori": "Productivity",
+      "gambar": "notion.png"
+    },
+    {
+      "tittle": "Microsoft Word",
+      "kategori": "Microsoft Office",
+      "gambar": "microsoft-word.png"
+    },
+    {
+      "tittle": "Microsoft Excel",
+      "kategori": ["Microsoft Office", "Data Administrative"],
+      "gambar": "microsoft-excel.png"
+    },
+    {
+      "tittle": "Microsoft Power Point",
+      "kategori": "Microsoft Office",
+      "gambar": "microsoft-powerpoint.png"
+    }
+  ]
+}

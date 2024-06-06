@@ -1,0 +1,5 @@
+.vertical-text {
+  writing-mode: vertical-rl; /* Teks akan vertikal dari atas ke bawah, dari kanan ke kiri */
+  text-orientation: mixed; /* Mengatur orientasi huruf */
+  white-space: nowrap; /* Mencegah teks membungkus ke baris baru */
+}

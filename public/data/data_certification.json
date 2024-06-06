@@ -1,0 +1,88 @@
+{
+  "data_certification": [
+    {
+      "nama": "Pelatihan Machine Learning dan Front End Web",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Memulai Pemrograman Dengan C",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Belajar Dasar Pemrograman Web",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Belajar Fundamental Front-End Web Development",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Belajar Machine Learning untuk Pemula",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": " Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Belajar Dasar Pemrograman JavaScript",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Meniti Karier sebagai Software Developer",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Belajar Membuat Front-End Web untuk Pemula",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Belajar Dasar Git dengan GitHub",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    },
+    {
+      "nama": "Machine Learning Terapan",
+      "institusi": "Dicoding",
+      "gambar": "dicoding.png",
+      "gambar_dark": "dicoding_dark.png",
+      "link": ""
+    }
+  ]
+}

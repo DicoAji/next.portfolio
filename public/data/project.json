@@ -1,0 +1,77 @@
+{
+  "project": [
+    {
+      "kategori": "portfolio",
+      "tittle": "Portfolio1",
+      "gambar": "portfolio1.png",
+      "link": "https://dicoaji.github.io/personal-portfolio/"
+    },
+    {
+      "kategori": "portfolio",
+      "tittle": "Portfolio2",
+      "gambar": "portfolio2.png",
+      "link": "https://dicoaji.github.io/dico-aji-resume/"
+    },
+    {
+      "kategori": "client project",
+      "tittle": "Bandikmenti Web",
+      "gambar": "bandikmenti.png",
+      "link": "https://bandikmenti.batangkab.go.id/"
+    },
+    {
+      "kategori": "other",
+      "tittle": "Personal Notes React App",
+      "gambar": "personal_notes.png",
+      "link": "https://dicoaji.github.io/aplikasi-pencatatan-React.github.io/"
+    },
+    {
+      "kategori": "portfolio",
+      "tittle": "Portfolio3",
+      "gambar": "portfolio3.png",
+      "link": "https://dicoaji.github.io/portfolio3/"
+    },
+    {
+      "kategori": "portfolio",
+      "tittle": "Portfolio4",
+      "gambar": "portfolio4.png",
+      "link": ""
+    },
+
+    {
+      "kategori": "client project",
+      "tittle": "SIPPBCB",
+      "gambar": "maulapor.png",
+      "link": "https://dicoaji.github.io/maulaporUI.github.io/"
+    },
+    {
+      "kategori": "other",
+      "tittle": "Bookshelf",
+      "gambar": "bookshelf.png",
+      "link": "https://dicoaji.github.io/todolist.github.io/"
+    },
+    {
+      "kategori": "data analysis",
+      "tittle": "Anime Recomendation",
+      "gambar": "anime.png",
+      "link": "https://drive.google.com/file/d/1uWv8irCVvUyvURTLygoL9WkDgIHbjMgi/view?usp=sharing"
+    },
+    {
+      "kategori": "data analysis",
+      "tittle": "Orage Grapefruit Classification",
+      "gambar": "grapefruit_orange.png",
+      "link": "https://drive.google.com/file/d/17XKQZKLYnU2gkRfnVV6c5lxwt0gf1tuy/view?usp=sharing"
+    },
+    {
+      "kategori": "data analysis",
+      "tittle": "Liver Patient Prediction",
+      "gambar": "liver.png",
+      "link": "https://drive.google.com/file/d/129AUC3VKA6B2DJvKEyq3oKIJs_hbppvA/view?usp=sharing"
+    },
+    {
+      "kategori": "data analysis",
+      "tittle": "Rock Paper Scissor Detection",
+      "gambar": "rps.png",
+      "link": "https://drive.google.com/file/d/16qn6JsAIHpmF6wGLgo1KUCozNq5_iO1G/view?usp=sharing"
+    }
+  ]
+}

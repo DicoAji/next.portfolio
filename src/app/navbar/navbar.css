@@ -1,0 +1,32 @@
+.navbar {
+  font-family: "Ubuntu", sans-serif;
+  .menu {
+    li {
+      font-family: "Ubuntu", sans-serif;
+      padding: 8px 16px;
+      .dropdown_menu {
+        padding: 10px;
+        background-color: transparent;
+        transform: translateX(80px);
+        li {
+          background-color: white;
+          padding: 4px 10px;
+          color: #333333;
+          transform: translateY(10px);
+        }
+        li:hover {
+          background-color: white;
+          color: #333333;
+          text-decoration: underline;
+        }
+      }
+    }
+    li:hover {
+      background-color: #333333;
+      color: white;
+    }
+  }
+}
+.menu li {
+  font-family: "Ubuntu", sans-serif;
+}

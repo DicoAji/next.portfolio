@@ -1,0 +1,9 @@
+.home_social_media {
+  .icon {
+    height: 20px;
+  }
+}
+.hero_dico {
+  font-size: clamp(54px, 5vw, 75px);
+  border: none;
+}
