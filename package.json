@@ -1,15 +1,12 @@
 {
   "name": "next.portfolio",
-  "homepage": "https://DicoAji.github.io/next.portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "lint": "next lint"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -25,7 +22,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
-    "gh-pages": "^6.1.1",
     "globals": "^15.3.0",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
